@@ -188,6 +188,10 @@ Walker had run since 1874.
 - **Horace Waddington** (c. 1834–1930) of University College: came up in
   May 1853, elected Univ scholar two days before the 1854 Hertford, First
   in Classics; later an inspector of schools.
+- **Ernest Ridsdale Ellaby** (c. 1834–1896) of Wadham: came up in October
+  1852, Hody Greek exhibitioner 1853–57, Fellow from 1857, barrister, and
+  translator of Dante's *Inferno* (Cantos I–X, 1874); found to be suffering
+  from delusions in October 1875.
 - A **dying declaration** is, in English law, a statement made by someone
   who believes death is near; it can be admitted as evidence.
 
