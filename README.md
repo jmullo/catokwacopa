@@ -121,7 +121,10 @@ declaration": a solemn statement for the record.
    1855 Jowett, whose lectures the writer attended. Robert Griffith was placed
    first and the writer second. The writer told Shirley. Both teachers' lines may end "… pupil",
    and the last line may say the writer "followed both masters": Conington and
-   Jowett, who were at odds from 1855.
+   Jowett, who were at odds from 1855. But "followed … both … master" is
+   also how the first two cantos of Dante's *Inferno* end: Dante sets off
+   behind Virgil, "we have both one will … my lord and master thou". This
+   fits the singular "master" better.
 
 The Hody line points to the writer being a Wadham man who held a Hody
 Greek exhibition in 1855–6. If "W." is the writer's initial, the best fit
@@ -152,6 +155,13 @@ repeatedly asked a London magistrate to receive a written "declaration"
 that he was being drugged, and was found to be suffering from delusions;
 he spent his last years in care and died in 1896. A man who believed he
 was being poisoned might well call his statement a "dying declaration".
+Two details of the last line point to him. It echoes the end of the first
+two cantos of the *Inferno*, which he had translated himself. And its 8 May
+group opens with the letters E R E, his initials, the form the 1891 census
+gives him. Straight after "dying declaration", they would be its signature.
+The two letters that follow them in the 20 May group then read best as
+"for I": "E. R. E. — for I followed both, master", close to his own
+"for we have both one will … master".
 Nothing yet links him to Conington, and this too is a guess.
 
 Why the writer published in 1875 is unknown. By then Griffith, Shirley and
@@ -191,7 +201,8 @@ Walker had run since 1874.
 - **Ernest Ridsdale Ellaby** (c. 1834–1896) of Wadham: came up in October
   1852, Hody Greek exhibitioner 1853–57, Fellow from 1857, barrister, and
   translator of Dante's *Inferno* (Cantos I–X, 1874); found to be suffering
-  from delusions in October 1875.
+  from delusions in October 1875. In 1891 the census lists him, as an
+  asylum patient, only by his initials "E R E".
 - A **dying declaration** is, in English law, a statement made by someone
   who believes death is near; it can be admitted as evidence.
 
