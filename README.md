@@ -31,6 +31,9 @@ The writer does have clear habits:
   CON[I]NGT[O]N, LEC[T]UR[E]S. An E just before the last letter is often
   dropped: GARD[E]N, SHIRL[E]Y.
 - **Whole words are rarely left out:** [OF] SATIRES is the only clear case.
+- **Every printed letter belongs to the text.** In the lines read with
+  confidence no letter is left over; only line 23 still has two printed
+  letters that its reading does not explain.
 
 ## Notation
 
@@ -68,7 +71,7 @@ The writer does have clear habits:
 | 20 | Ap. 138 | A. P. 138 | Horace, *Ars Poetica* 138 | possible |
 | 21 | Hodsam | Yxn | HOD[Y']S [E]XAM[INATIO]N | likely |
 | 22 | 55, 6 | 18. 18 | 1855-6 | solid |
-| 23 | Iopotonrogfimsecharsenr | Wtubtrfftrstendinhofsvmnr | … ROBT GR[I]FF[I]T[H] FIRST, ME SEC[O]ND … | open (middle likely) |
+| 23 | Iopotonrogfimsecharsenr | Wtubtrfftrstendinhofsvmnr | IOW[E]T[T] (= JOWETT) PUT ON ROBT GR[I]FF[I]T[H] FIRST, ME SEC[O]ND, IN HARSH [AND] O[F]FE[N]S[I]V[E] M[A]NN[E]R | open (middle likely; beginning and end possible, with a printed O and R still unexplained) |
 | 24 | Tolshr | Dily | TOLD SHIRL[E]Y | solid |
 | 25 | Itedjolec | Atdwtsurs | I ATT[EN]DED JOW[ET]T'S LEC[T]UR[E]S | solid |
 | 26 | mistrl | Oatvpu | … VIS[I]T[O]R PU[PI]L | open |
@@ -94,8 +97,9 @@ Square brackets mark the parts rated only *possible*; "…" is unread.
 > second motto. I added first line of Satires: *Qui fit*. [Change adopted.]
 > Baliol man opposite [seemed, sotto voce: *Ars Poetica* 138.]
 >
-> Hody's examination 1855-6. … Robert Griffith first, me second … Told
-> Shirley. I attended Jowett's lectures. … [visitor pupil].
+> Hody's examination 1855-6. [Jowett put on] Robert Griffith first, me
+> second, [in harsh and offensive manner]. Told Shirley. I attended
+> Jowett's lectures. … [visitor pupil].
 >
 > Dying declaration. [Retire, followed both master.]
 
@@ -118,8 +122,11 @@ declaration": a solemn statement for the record.
    anonymous, and the scholarship went to a Balliol man.
 3. **1855–6, the Hody examination.** Wadham's Hody exhibitioners were
    examined each term, by the rules, by the Regius Professor of Greek: from
-   1855 Jowett, whose lectures the writer attended. Robert Griffith was placed
-   first and the writer second. The writer told Shirley. Both teachers' lines may end "… pupil",
+   1855 Jowett, whose lectures the writer attended. The line may read
+   "Jowett put on Robert Griffith first, me second, in harsh and offensive
+   manner": to "put on" a man was the period's term for calling him up to
+   construe, so Jowett called on Griffith first and the writer second, and
+   treated the writer harshly. The writer told Shirley. Both teachers' lines may end "… pupil",
    and the last line may say the writer "followed both masters": Conington and
    Jowett, who were at odds from 1855. But "followed … both … master" is
    also how the first two cantos of Dante's *Inferno* end: Dante sets off
@@ -135,7 +142,8 @@ mathematical tutor. Two Griffiths held the exhibition then, which would
 explain why the writer wrote out "Robt".
 
 Two things count against Walker. He had no honours in classics, yet the
-writer comes second only to Griffith. And before 1854 Conington taught as Greek
+writer comes second only to Griffith (unless "first … second" is only the
+order in which Jowett called them up). And before 1854 Conington taught as Greek
 lecturer of University College, whose lectures were closed to other
 colleges, so a Wadham man could have heard him only as a private pupil; no
 record says either way. Both points suit **Horace Waddington** of
@@ -228,6 +236,7 @@ Background facts are from:
 - H. J. S. Smith's memoir in John Conington's *Miscellaneous Writings*
   (1872) and E. Abbott and L. Campbell, *The Life and Letters of Benjamin
   Jowett* (1897); G. C. Brodrick, *Memories and Impressions* (1900);
+  C. A. Bristed, *Five Years in an English University* (1852);
 - E. R. Ellaby's translation of Dante's *Inferno*, Cantos I–X (1874);
 - newspaper reports of 1853–1875 (British Newspaper Archive), the census of
   1851–1891 (FreeCEN, FamilySearch) and the civil registration index
